@@ -1,4 +1,4 @@
-""" this tey"""
+""" this """
 print("hello world,lets try again")
 print(5+6) 
 print(9-4) 
