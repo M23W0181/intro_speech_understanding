@@ -1,8 +1,8 @@
 
-j = None
 a = "This is a python string"
 b = 7 % 3
 c = 55 * 234
+name1 = "KCGI"
 name2 = "Kyoto"
 d = name1 + ' @ ' + name2
 e = round(3.458, 2)
